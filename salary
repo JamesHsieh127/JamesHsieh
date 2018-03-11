@@ -1,0 +1,6 @@
+hrs = input ("How many hours?")
+rate = input ("how many money per hour?")
+hr = float(hrs)
+mph = float(rate)
+salary = hr * mph
+print ("Pay:",salary)
